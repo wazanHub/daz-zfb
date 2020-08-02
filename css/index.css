@@ -1,0 +1,25 @@
+@import 'reset.css';
+.g-doc {width: 7.5rem;margin: 0 auto;background: #b7bab2;}
+
+.area-1{height: 4.53rem;background: url(../images/index-1.jpg?1333) no-repeat 0 0/cover;}
+.area-2{height: 5.55rem;background: url(../images/index-2.jpg?1333) no-repeat 0 0/cover;}
+.area-3{height: 5rem;background: url(../images/index-3.jpg?1333) no-repeat 0 0/cover;position: relative;}
+
+
+.area-3 .g-btn{width: 3.84rem;height: 0.9rem;position: absolute;top: 0;left: 50%;margin-left: -1.92rem;}
+.area-3 .btn_rule{width: 1.44rem;height: 0.36rem;position: absolute;top: 1.3rem;left: 3rem;background:url(../images/btn_rule.png) no-repeat 0 0/contain;}
+
+
+.fixed{width: 100%;height: 100%;background: rgba(0, 0, 0, .8);position: fixed;top: 0;left: 0;z-index: 5;display: none;}
+.pop_rule{width: 6.56rem;height: 8.9rem;background: url(../images/pop_rule.png?6666111) no-repeat center center/contain;position: fixed;top: 50%;left: 50%;margin-left:-3.28rem;margin-top: -4.83rem;z-index: 10;display: none;}
+.pop_rule .close{width: 0.80rem;height: 0.80rem;position: absolute;bottom:0rem;left: 50%;margin-left: -0.4rem;}
+
+
+
+
+
+
+
+
+
+
